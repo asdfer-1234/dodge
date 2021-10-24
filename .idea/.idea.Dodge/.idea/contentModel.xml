@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\sh__l\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\sh__l\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Dodge.-118662141.00" t="ExcludeRecursive" />
+    <e p="D:\프로그래밍\shunity\Dodge" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="BackgroundRepeater.cs" t="Include" />
+          <e p="DataHolder.cs" t="Include" />
+          <e p="Enemies" t="Include">
+            <e p="AssaultEnemyController.cs" t="Include" />
+            <e p="BasicEnemyController.cs" t="Include" />
+            <e p="EnemyController.cs" t="Include" />
+            <e p="EnemyInstantiation.cs" t="Include" />
+            <e p="HomingEnemyController.cs" t="Include" />
+            <e p="InstantiateEnemyController.cs" t="Include" />
+            <e p="SplitEnemyController.cs" t="Include" />
+            <e p="WaveEnemyController.cs" t="Include" />
+          </e>
+          <e p="EnemyGenerator.cs" t="Include" />
+          <e p="Follower.cs" t="Include" />
+          <e p="GameLoader.cs" t="Include" />
+          <e p="MessageRandomizer.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="PlayerRotationTargetController.cs" t="Include" />
+          <e p="PlayerStats.cs" t="Include" />
+          <e p="SegmentBar.cs" t="Include" />
+          <e p="Shadow.cs" t="Include" />
+          <e p="UI" t="Include">
+            <e p="GameoverUiManager.cs" t="Include" />
+            <e p="GameUIManager.cs" t="Include" />
+            <e p="PauseManager.cs" t="Include" />
+            <e p="SceneTransition.cs" t="Include" />
+            <e p="UIManager.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Dodge.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

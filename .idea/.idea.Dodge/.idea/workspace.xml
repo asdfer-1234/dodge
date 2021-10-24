@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5302ee0-049c-47af-b664-d4670bfa0b3f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shadow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/BasicEnemyController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/SplitEnemyController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/InstantiateEnemyController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerStats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/WaveEnemyController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/HomingEnemyController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BackgroundRepeater.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/AssaultEnemyController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Follower.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/GameUIManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/SceneTransition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SegmentBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/PauseManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerRotationTargetController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/UIManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/HomingEnemyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UIController.cs" />
+        <option value="$PROJECT_DIR$/Assets/MenuManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameoverUiManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameUIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameoverUiManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameoverUIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UIManager/MenuUIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UIManager/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UIManager/GameUIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UIManager/GameoverUIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SplitEnemyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BasicEnemyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/WaveEnemyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/MessageRandomizer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuEnemyGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyInstantiation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/InstantiateEnemyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UIManager/UINavigation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/PauseManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataSaver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StatManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StaminaManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/SceneTransitionAnimator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UINavigation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/GameUIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/SceneTransition.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SegmentBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Timer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerRotationTargetController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/BasicEnemyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/AssaultEnemyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/WaveEnemyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/HomingEnemyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/SplitEnemyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerStats.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shadow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TPgqzJBuDiZKQAOnkzOWi2Bta3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5302ee0-049c-47af-b664-d4670bfa0b3f" name="Default Changelist" comment="" />
+      <created>1573367352701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573367352701</updated>
+      <workItem from="1573367382991" duration="3028000" />
+      <workItem from="1573551765900" duration="6752000" />
+      <workItem from="1573624592660" duration="7885000" />
+      <workItem from="1573711306723" duration="5097000" />
+      <workItem from="1574247671253" duration="1555000" />
+      <workItem from="1575090336741" duration="3715000" />
+      <workItem from="1575096179965" duration="3866000" />
+      <workItem from="1575269743278" duration="3416000" />
+      <workItem from="1575353885812" duration="8178000" />
+      <workItem from="1575616888080" duration="4164000" />
+      <workItem from="1575628815285" duration="892000" />
+      <workItem from="1575704528845" duration="221000" />
+      <workItem from="1575714790427" duration="685000" />
+      <workItem from="1576305470605" duration="664000" />
+      <workItem from="1576306149809" duration="6049000" />
+      <workItem from="1576382447003" duration="9498000" />
+      <workItem from="1576898810322" duration="601000" />
+      <workItem from="1576978855234" duration="8532000" />
+      <workItem from="1577350090520" duration="218000" />
+      <workItem from="1577429967734" duration="4472000" />
+      <workItem from="1577797530302" duration="49000" />
+      <workItem from="1577863225205" duration="5101000" />
+      <workItem from="1577964685505" duration="5212000" />
+      <workItem from="1578121045056" duration="6527000" />
+      <workItem from="1578202665263" duration="5878000" />
+      <workItem from="1578558952700" duration="3025000" />
+      <workItem from="1578622422826" duration="4922000" />
+      <workItem from="1579054140082" duration="2292000" />
+      <workItem from="1579656980821" duration="4365000" />
+      <workItem from="1579745091259" duration="959000" />
+      <workItem from="1580170772673" duration="238000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="540" y="267" key="IDE.errors.dialog" timestamp="1576393369984">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="540" y="267" key="IDE.errors.dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1576393369984" />
+    <state x="687" y="247" key="RiderGenerateDialog" timestamp="1577865265054">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="687" y="247" key="RiderGenerateDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1577865265054" />
+    <state x="461" y="166" key="SettingsEditor" timestamp="1578122671501">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="166" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1578122671501" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1576981512704">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1576981512704" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1578127062855">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1578127062855" />
+  </component>
+</project>

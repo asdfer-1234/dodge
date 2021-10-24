@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Data Holder
+  - Enemies
+  - Pause
+  - Scene Transiton
+  - Enemy Destroy Range
+  - Enemy
+  - Medium Range
+  - Long Range
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1883958343
+    locked: 0
+  - name: Shadow
+    uniqueID: 3732392073
+    locked: 0
+  - name: Player
+    uniqueID: 2418832053
+    locked: 0
+  - name: Small Enemy
+    uniqueID: 3887800797
+    locked: 0
+  - name: Medium Enemy
+    uniqueID: 480814867
+    locked: 0
+  - name: Big Enemy
+    uniqueID: 1614335511
+    locked: 0
+  - name: Particle
+    uniqueID: 2247696049
+    locked: 0
